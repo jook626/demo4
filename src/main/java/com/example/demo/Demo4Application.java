@@ -8,7 +8,7 @@ public class Demo4Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Demo4Application.class, args);
-        System.out.println("check1");
+        System.out.println("check2");
     }
 
 }
